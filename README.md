@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Maithali .S. Yadav</h1>
+<h1>Maithali.S.Yadav</h1>
 <h2>Section : C</h2>
 <h3>USN : CS25153</h3>
 <Table border = "2px">
@@ -12,7 +12,7 @@
 <th>10:30</th>
 </tr>
 <tr cellspace = "5px">
-<th cellpadding="3px >Monday</th>
+<th cellpadding="3px">Monday</th>
 <td>Maths</td>
 <td>SMPL</td>
 <rowspan = "5"> <td>Dinner</td></rowspan>
