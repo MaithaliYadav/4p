@@ -5,12 +5,12 @@
 <h3>USN : CS25153</h3>
 <Table border = "2px">
 <tr>
-<tr>Day/Time </tr>
-<tr>7:30</tr>
-<tr>8:30</tr>
-<tr>9:30</tr>
-<tr>10:30</tr>
-<tr>11:30</tr>
+<th>Day/Time </th>
+<th>7:30</th>
+<th>8:30</th>
+<th>9:30</th>
+<th>10:30</th>
+<th>11:30</th>
 </tr>
 <tr cellspace = "5px">
 <th cellpadding="3px >Monday</th>
